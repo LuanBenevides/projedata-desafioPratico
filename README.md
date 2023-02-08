@@ -1,5 +1,5 @@
 # ProjeData-desafioPratico
-Este é o desafio prático enviado pela PROJEDATA, seguem abaixo os tópicos solicitados no desafio:
+Este é o desafio prático enviado pela PROJEDATA, seguem abaixo os tópicos solicitados no desafio, este repositório implementa a grande maioria dos tópicos abordados:
 
 ### Considerando que uma indústria possui as pessoas/funcionários:
 
